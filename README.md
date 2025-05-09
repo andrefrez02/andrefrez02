@@ -5,7 +5,7 @@
 ## Pessoal
 Caixa e Comanda - https://github.com/andrefrez02/CaixaComanda
 
-CP Training Academia
+CP Training Academia - https://andrefrez02.github.io/CPTrainingAcademia
 
 Avaliação PixelHouse - https://github.com/andrefrez02/Avaliacao-PixelHouse
 
