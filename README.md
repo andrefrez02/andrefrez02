@@ -3,6 +3,8 @@
 ## SITES QUE EU DESENVOLVI
 ###
 ## Pessoal
+Avaliação Tropa Digital - https://tropa-digital-react.vercel.app/dashboard
+
 Caixa e Comanda - https://github.com/andrefrez02/CaixaComanda
 
 CP Training Academia - https://andrefrez02.github.io/CPTrainingAcademia
