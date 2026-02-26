@@ -1,5 +1,7 @@
-# 💫 About Me:
-Olá 👋 Sou André Luiz Frezarini, um <br><br>Analista de TI Pleno e Desenvolvedor Web  com 4 anos de experiência na área. Minha trajetória me deu uma visão completa do ciclo de vida de software, desde o suporte técnico até o desenvolvimento e automação.<br><br>🔭 Atualmente estou trabalhando como Analista de Suporte Pleno no Grupo Haganá, onde lidero equipes de N1 e N2 e utilizo minhas habilidades em programação para automatizar tarefas rotineiras.<br><br>👯 Busco colaborar em projetos inovadores, especialmente em desenvolvimento web (Front-End e Back-End), onde minhas habilidades em C#, JavaScript, HTML, CSS, React e APIs REST possam agregar valor. Tenho experiência em trabalhar em equipe e sou proativo em ajudar no aprendizado de novos colegas.<br><br>🤝 Estou aberto a receber ajuda com insights sobre as últimas tendências em arquitetura de software e otimização de performance para aplicações web de grande escala.<br><br>🌱 Atualmente estou me aprofundando em React e Next.js, e explorando mais sobre as melhores práticas de Docker e Programação Orientada a Objetos (OOP), buscando sempre expandir meu conhecimento em novas tecnologias.<br><br>💬 Pergunte-me sobre desenvolvimento web, automação de processos com scripts, otimização de performance, e como transitar de suporte para desenvolvimento em TI. Posso compartilhar minhas experiências e aprendizados!<br><br>⚡ Curiosidade: Além de desenvolver sites completos, também crio robôs para coleta de dados (WebScrappers com Selenium) e tenho um bom conhecimento em Figma para prototipagem de interfaces. Adoro encontrar formas de automatizar e simplificar processos!
+# 💫 Sobre:
+Olá 👋 Sou André Luiz Frezarini, um Analista de TI Pleno e Desenvolvedor Web com 4 anos de experiência na área. 
+Atualmente estou trabalhando como Desenvolvedor na Dentista +
+<!-- Minha --> trajetória me deu uma visão completa do ciclo de vida de  software, desde o suporte técnico até o desenvolvimento e automação.<br><br>🔭 Atualmente estou trabalhando como Analista de Suporte Pleno no Grupo Haganá, onde lidero equipes de N1 e N2 e utilizo minhas habilidades em programação para automatizar tarefas rotineiras.<br><br>👯 Busco colaborar em projetos inovadores, especialmente em desenvolvimento web (Front-End e Back-End), onde minhas habilidades em C#, JavaScript, HTML, CSS, React e APIs REST possam agregar valor. Tenho experiência em trabalhar em equipe e sou proativo em ajudar no aprendizado de novos colegas.<br><br>🤝 Estou aberto a receber ajuda com insights sobre as últimas tendências em arquitetura de software e otimização de performance para aplicações web de grande escala.<br><br>🌱 Atualmente estou me aprofundando em React e Next.js, e explorando mais sobre as melhores práticas de Docker e Programação Orientada a Objetos (OOP), buscando sempre expandir meu conhecimento em novas tecnologias.<br><br>💬 Pergunte-me sobre desenvolvimento web, automação de processos com scripts, otimização de performance, e como transitar de suporte para desenvolvimento em TI. Posso compartilhar minhas experiências e aprendizados!<br><br>⚡ Curiosidade: Além de desenvolver sites completos, também crio robôs para coleta de dados (WebScrappers com Selenium) e tenho um bom conhecimento em Figma para prototipagem de interfaces. Adoro encontrar formas de automatizar e simplificar processos!
 
 
 ## 🌐 Socials:
@@ -23,6 +25,7 @@ Olá 👋 Sou André Luiz Frezarini, um <br><br>Analista de TI Pleno e Desenvolv
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 ## SITES QUE EU DESENVOLVI
 ###
 ## Pessoal
@@ -67,7 +70,7 @@ https://verdelandia.mg.gov.br/
 https://pradopolis.sp.gov.br/
 
 https://venhaver.rn.gov.br/
-
+-->
 #
 
 ## HABILIDADES TECNICAS
@@ -90,6 +93,7 @@ Power BI, Power Automate
 ### Fluente Português
 ### Avançado Inglês
 
+<!--
 # Resumo 
 Sou analista de TI Pleno atualmente, tenho 3 anos de experiência na área.
 Comecei como Jovem Aprendiz de Analista de Suporte no Grupo Haganá aos 19 anos e me destaquei na equipe ganhando mais responsabilidades e confiança da equipe. 
@@ -98,3 +102,4 @@ Atualmente retornei para o Grupo Haganá como Analista de Suporte Pleno e comand
 
 Sobre minha experiência na empresa Webnets (Março de 2022 – Abril de 2024) como Desenvolvedor Web Pleno. 
 Durante meu tempo de trabalho tive diversas oportunidades de aprendizado em várias áreas como Suporte com contato com clientes e colaboradores. Um pouco de Back-End onde eu tive contato com telas de sistema, CRUDs, APIs e Banco de dados. E principalmente tive bastante destaque como Desenvolvedor Web Front-End, utilizando as tecnologias Razor C# ASP.NET MVC, CSS/SASS, HTML, Javascript e Figma, trabalhando em equipe e trazendo ótimos resultados para a empresa. 
+-->
