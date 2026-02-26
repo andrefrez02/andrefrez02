@@ -92,7 +92,7 @@ Adobe, Edição de vídeos, Git, VPN, Power BI
 Power Automate
 
 ## IDIOMAS
-### Fluente em Português e Avançado Inglês
+### Fluente em Português e Avançado em Inglês
 
 <!--
 # Resumo 
