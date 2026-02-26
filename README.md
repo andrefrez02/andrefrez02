@@ -1,9 +1,10 @@
 # 💫 Sobre:
-Olá 👋 Sou André Luiz Frezarini, um Analista de TI Pleno e Desenvolvedor Web com 4 anos de experiência na área. 
+Olá 👋 Sou André Luiz Frezarini, um Analista de TI Pleno e Desenvolvedor Web com 4 anos de experiência na área. <br> <br>
 Atualmente estou trabalhando como Desenvolvedor na Dentista +
-<!-- Minha --> trajetória me deu uma visão completa do ciclo de vida de  software, desde o suporte técnico até o desenvolvimento e automação.<br><br>🔭 Atualmente estou trabalhando como Analista de Suporte Pleno no Grupo Haganá, onde lidero equipes de N1 e N2 e utilizo minhas habilidades em programação para automatizar tarefas rotineiras.<br><br>👯 Busco colaborar em projetos inovadores, especialmente em desenvolvimento web (Front-End e Back-End), onde minhas habilidades em C#, JavaScript, HTML, CSS, React e APIs REST possam agregar valor. Tenho experiência em trabalhar em equipe e sou proativo em ajudar no aprendizado de novos colegas.<br><br>🤝 Estou aberto a receber ajuda com insights sobre as últimas tendências em arquitetura de software e otimização de performance para aplicações web de grande escala.<br><br>🌱 Atualmente estou me aprofundando em React e Next.js, e explorando mais sobre as melhores práticas de Docker e Programação Orientada a Objetos (OOP), buscando sempre expandir meu conhecimento em novas tecnologias.<br><br>💬 Pergunte-me sobre desenvolvimento web, automação de processos com scripts, otimização de performance, e como transitar de suporte para desenvolvimento em TI. Posso compartilhar minhas experiências e aprendizados!<br><br>⚡ Curiosidade: Além de desenvolver sites completos, também crio robôs para coleta de dados (WebScrappers com Selenium) e tenho um bom conhecimento em Figma para prototipagem de interfaces. Adoro encontrar formas de automatizar e simplificar processos!
 
+<!-- Minha trajetória me deu uma visão completa do ciclo de vida de  software, desde o suporte técnico até o desenvolvimento e automação.<br><br>🔭 Atualmente estou trabalhando como Analista de Suporte Pleno no Grupo Haganá, onde lidero equipes de N1 e N2 e utilizo minhas habilidades em programação para automatizar tarefas rotineiras.<br><br>👯 Busco colaborar em projetos inovadores, especialmente em desenvolvimento web (Front-End e Back-End), onde minhas habilidades em C#, JavaScript, HTML, CSS, React e APIs REST possam agregar valor. Tenho experiência em trabalhar em equipe e sou proativo em ajudar no aprendizado de novos colegas.<br><br>🤝 Estou aberto a receber ajuda com insights sobre as últimas tendências em arquitetura de software e otimização de performance para aplicações web de grande escala.<br><br>🌱 Atualmente estou me aprofundando em React e Next.js, e explorando mais sobre as melhores práticas de Docker e Programação Orientada a Objetos (OOP), buscando sempre expandir meu conhecimento em novas tecnologias.<br><br>💬 Pergunte-me sobre desenvolvimento web, automação de processos com scripts, otimização de performance, e como transitar de suporte para desenvolvimento em TI. Posso compartilhar minhas experiências e aprendizados!<br><br>⚡ Curiosidade: Além de desenvolver sites completos, também crio robôs para coleta de dados (WebScrappers com Selenium) e tenho um bom conhecimento em Figma para prototipagem de interfaces. Adoro encontrar formas de automatizar e simplificar processos!
 
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-luiz-frezarini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andre.frezarini02@gmail.com) 
 
@@ -14,6 +15,7 @@ Atualmente estou trabalhando como Desenvolvedor na Dentista +
 ![](https://nirzak-streak-stats.vercel.app/?user=andrefrez02&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrez02&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andrefrez02&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
@@ -77,9 +79,9 @@ https://venhaver.rn.gov.br/
 ### Avançado
 HTML, CSS, JavaScript, Sass, Razor ASP.NET, MVC
 ### Intermediário
-C#, Node, API, JSON, PowerShell, Python, Selenium, React
+C#, Node, API, JSON, PowerShell, Python, Selenium, React, MySQL
 ### Básico
-Java, T-SQL, MySQL
+Java, T-SQL 
 
 ## FERRAMENTAS
 ### Avançado
