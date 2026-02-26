@@ -85,15 +85,14 @@ Java, T-SQL
 
 ## FERRAMENTAS
 ### Avançado
-Figma, FileZilla FTP, Pacote Office
+Figma, FileZilla FTP, Pacote Office, Active Directory
 ### Intermediário
-Active Directory, Adobe, Edição de vídeos, Git, VPN
+Adobe, Edição de vídeos, Git, VPN, Power BI
 ### Básico
-Power BI, Power Automate
+Power Automate
 
 ## IDIOMAS
-### Fluente Português
-### Avançado Inglês
+### Fluente em Português e Avançado Inglês
 
 <!--
 # Resumo 
